@@ -1,0 +1,25 @@
+
+.shop {
+    width: 95%;
+    margin: 0 auto;
+}
+.shop-container {
+    display: flex ;
+    flex-wrap: wrap;
+    
+}
+.course-main-title {
+    width: 68.8%;
+    margin-top: 1rem;
+    padding: 1rem 0;
+    background-color: darkslategray;
+    color: whitesmoke;
+}
+.courses-sec {
+    width: 75%;
+    display: flex;
+}
+.cart-sec {
+    width: 25% ;
+}
+

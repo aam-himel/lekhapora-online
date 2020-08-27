@@ -1,0 +1,14 @@
+.course-card {
+    display: flex;
+    flex-wrap: wrap;
+    width: 18rem;
+    min-height: 25rem;
+    /* padding: 1rem; */
+    margin: 1rem;
+    background-color: #EFEEEE;
+    border: rgba(255, 255, 255, 0.205);
+    border-radius: 5px;
+    box-shadow: -6px -6px 16px rgba(255, 255, 255, 0.514) ,
+                6px 6px 26px rgba(209, 201, 201, 0.774) ; 
+}
+

@@ -1,0 +1,15 @@
+.brand {
+    font-weight: 800;
+    letter-spacing: 2px;
+   
+}
+.brand-sub {
+    color: tomato;
+}
+.btn-signup {
+    font-weight: 700;
+    color: whitesmoke;
+}
+.btn-signup:hover {
+    color: rgb(29, 11, 63);
+}
